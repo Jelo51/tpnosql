@@ -1,0 +1,4 @@
+venv/
+neo4j_data/
+__pycache__/
+*.pyc
